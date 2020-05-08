@@ -2,6 +2,11 @@ This is a custom repo for installing digipres tools not in Caskroom/homebrew-cas
 
 To install any of these formulae, first run `brew tap EG-tech/digipres`
 
+Then either:
+`brew install [formula]`
+or
+`brew cask install [formula]`
+
 # Available formulae
 
 ## CLI
