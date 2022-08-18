@@ -1,10 +1,10 @@
 cask 'vrecord-gui' do
-  version 'v2018-04-24'
-  sha256 '49a786f5c3b3da098fa69296eb5cd75e37946e387da435032018e79da7102d66'
-  url "https://github.com/EG-tech/vrecord-gui/archive/v2018-04-24.zip"
+  version 'v2022-08-18'
+  sha256 '3120bceb3ccd7f93cd965060f715f60d56f93d829e6893fece45ab60afa02005'
+  url "https://github.com/EG-tech/vrecord-gui/archive/v2022-08-18.zip"
 
   homepage "https://github.com/amiaopensource/vrecord"
 
-  app 'vrecord-gui-2018-04-24/vrecord.app'
+  app 'vrecord-gui-2022-08-18/vrecord.app'
 
 end
